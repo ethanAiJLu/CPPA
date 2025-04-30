@@ -1,18 +1,10 @@
-# Cross-Modal Prompt-Guided Source-Free Domain Adaptation for Remote Sensing Scene Recognition
+# CPPA
 
-This repository provides the official implementation of our paper "Cross-Modal Prompt-Guided Source-Free Domain Adaptation for Remote Sensing Scene Recognition" which introduces a novel approach for domain adaptation in remote sensing imagery using vision-language models.
+This repository provides the official implementation of our CPPA which introduces a novel approach for domain adaptation in remote sensing imagery using vision-language models.
 
 ## Overview
 
-CPPA (Cross-Modal Prompt-guided Prototype Alignment) is a multi-modal prompt learning framework that enables effective knowledge transfer between domains for remote sensing scene recognition without requiring target domain labels. Our method leverages both visual and textual modalities to create more robust and adaptable models that can generalize across different remote sensing datasets.
-
-Key features:
-
-- Deep cross-modal interactions between visual and textual prompts
-- Source-free domain adaptation for remote sensing scene recognition
-- Novel prototype alignment mechanism for cross-domain knowledge transfer
-- State-of-the-art performance on remote sensing benchmarks
-- Compatible with CLIP and other vision-language models
+CPPA is a multi-modal prompt learning framework that enables effective knowledge transfer between domains for remote sensing scene recognition without requiring target domain labels. Our method leverages both visual and textual modalities to create more robust and adaptable models that can generalize across different remote sensing datasets.
 
 ## Implementation Details
 
